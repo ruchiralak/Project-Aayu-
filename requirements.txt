@@ -1,0 +1,14 @@
+PyYAML~=6.0.2
+pandas~=2.3.0
+preprocessing~=0.1.13
+features~=0.5.12
+numpy~=2.2.5
+scikit-learn~=1.6.1
+matplotlib~=3.10.3
+seaborn~=0.13.2
+joblib~=1.5.0
+
+pip install -r requirements.txt
+
+streamlit~=1.45.1
+setuptools~=80.7.1

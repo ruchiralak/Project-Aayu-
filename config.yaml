@@ -1,0 +1,6 @@
+input_csv: "data/sample_dataset.csv"
+target_column: "Target"
+top_n_features: 8
+model_to_save: "Random Forest"
+test_size: 0.2
+random_state: 42
