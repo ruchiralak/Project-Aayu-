@@ -93,7 +93,7 @@ health_predictor/
 
 ## 📄 License
 
-MIT License
+All RIght Reserved (2025) By M.A.R.L.Meddepola
 
 ---
 
