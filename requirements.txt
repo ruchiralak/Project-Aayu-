@@ -7,8 +7,5 @@ scikit-learn~=1.6.1
 matplotlib~=3.10.3
 seaborn~=0.13.2
 joblib~=1.5.0
-
-pip install -r requirements.txt
-
 streamlit~=1.45.1
 setuptools~=80.7.1
